@@ -1,4 +1,7 @@
-# api documentation for  [cordova-plugin-datepicker (v0.9.3)](https://github.com/VitaliiBlagodir/cordova-plugin-datepicker)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-datepicker.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-datepicker) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-datepicker.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-datepicker)
+# npmdoc-cordova-plugin-datepicker
+
+#### basic api documentation for  [cordova-plugin-datepicker (v0.9.3)](https://github.com/VitaliiBlagodir/cordova-plugin-datepicker)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-datepicker.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-datepicker) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-datepicker.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-datepicker)
+
 #### Cordova DatePicker Plugin
 
 [![NPM](https://nodei.co/npm/cordova-plugin-datepicker.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cordova-plugin-datepicker)
@@ -63,7 +66,8 @@
         "url": "git+https://github.com/VitaliiBlagodir/cordova-plugin-datepicker.git"
     },
     "scripts": {},
-    "version": "0.9.3"
+    "version": "0.9.3",
+    "bin": {}
 }
 ```
 
